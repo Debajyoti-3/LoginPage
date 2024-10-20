@@ -1,11 +1,11 @@
-# LoginPage
+
 Here's a professional and beginner-friendly `README.md` template for your **Login Page** project. You can modify it to match your specific requirements. 
 
 ---
 
 # Login Page  
 
-A simple, responsive login page built with **HTML** and **CSS**. This project demonstrates the basic structure of a login interface and the styling capabilities of CSS.  
+A simple, responsive login page built with HTML and CSS. This project demonstrates the basic structure of a login interface and the styling capabilities of CSS.  
 
 ---
 
